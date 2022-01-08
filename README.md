@@ -1,3 +1,16 @@
+## Shopping Calculator
+
+**Shopping Calculator app on [Google Play](https://play.google.com/store/apps/details?id=com.idappz.shoppcalc).**  
+
+Use Shopping calculator application when shopping to easily control your spendings.  
+Add goods you buy to your basket to see their total cost.  
+If you buy a product more than 1 pc., change the number in quantity field by clicking on it or touching the "x" button.  
+Open receipt to check all items that have been added to basket. There you can remove any item or add it again through context menu.  
+Currency name is displayed on the home screen near the total. It can be disabled or changed in application settings.  
+In settings you can also change application theme or enable/disable buttons vibration.  
+
+<!--
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/shopcalc/shopcalc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +48,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
+
